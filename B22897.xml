@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Citie of London reproved for its abominations, which doth concern all the inhabitants thereof that are guilty.</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22897</idno>
+            <idno type="STC">Wing F626A</idno>
+            <idno type="EEBO-CITATION">99829889</idno>
+            <idno type="PROQUEST">99829889</idno>
+            <idno type="VID">207245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Citie of London reproved for its abominations, which doth concern all the inhabitants thereof that are guilty.</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: London, the 4th day of the 5th month, 1660. M.F., i.e. Margaret Fell.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207245:1"/>
+            <head>THE CITIE OF LONDON REPROVED For its Abominations, which doth concern all the INHABITANTS thereof that are Guilty.</head>
+            <p>REpent thou Bloody City, (who doth, and hath long Crucified the Juſt, and cauſed Him to ſuffer;) whoſe <hi>Pride</hi> and <hi>Hipocriſie, Deceit</hi> and <hi>Diſſembling,</hi> hath reached unto Heaven; the God of Heaven hath ſeen thy <hi>Abomination,</hi> and the <hi>Cup of flatteries,</hi> and <hi>deceitful Abominations</hi> that thou haſt given to the <hi>Heads</hi> of this Nation, and doth give <hi>to every Change of Government,</hi> and <hi>every Power</hi> that comes up <hi>to Rule;</hi> thou can bow <hi>in thy deceitful flatteries,</hi> according <hi>to the Prieſts</hi> of the Nation, <hi>for thy own Ends:</hi> But the Righteous God hath ſeen you all, and doth ſee you, and he will uncover you, <hi>and lay your Abominations open,</hi> and rend off all your <hi>falſe Coverings,</hi> under which you may nide your ſelves <hi>from Men,</hi> but the Lord ſees through them, And He will <hi>Uncover you,</hi> and make your <hi>nakedneſſe appear,</hi> yea <hi>your profeſſing Coverings,</hi> and <hi>out-ſide adorning,</hi> and <hi>ſeeming Religion,</hi> under which you have Committed great Abominations, and Diſſembl ng both <hi>with God and Man;</hi> the day is come wherein you cannot hide your ſelves.</p>
+            <p>Doth not even the Witneſſe of God <hi>in your own Conſciences,</hi> that Bears Teſtimony for the Truth of God; This that tells you, <hi>You ſhould deal ſingly and uprightly with all men,</hi> this that tells you, <hi>You ſhould do unto all men as you would have them do unto you;</hi> Doth not this <hi>bear Teſtimony to your very Faces,</hi> that you <hi>are deceitful</hi> and <hi>diſſembling Hypocrites, Time-ſervers,</hi> and <hi>Men-pleaſers,</hi> that have ſo uſed your <hi>Wit</hi> and <hi>Policy,</hi> and acted <hi>ſo in Deceit, Diſſembling</hi> and <hi>Hypocriſie,</hi> that the moſt part of you have kept your ſelves out of Sufferings all theſe times of Suffering, which have been nigh <hi>twenty years;</hi> And <hi>few</hi> or <hi>none</hi> in the <hi>Nation</hi> have <hi>eſcaped the Scourge</hi> of Suffering as you have done; but they have ſuffered by one party or another, which you have eſcaped through your Poli<g ref="char:EOLhyphen"/>cy and Subtilty?—Did you not <hi>ſtrengthen, uphold</hi> and <hi>maintaine,</hi> with all your force and ſtrength, <hi>the long Parliament</hi> againſt the <hi>King</hi> and thoſe <hi>that were with him?</hi> And did you not <hi>Feaſt them</hi> and <hi>bow under them</hi> for your own ends? And did you not Feaſt <hi>Oliver Cromwell,</hi> with as much <hi>Acclamation</hi> and <hi>Solemnity</hi> as your Hearts could invent? Is not <hi>your Feaſting only to pleaſe men?</hi> but it is <hi>a great Abomination to the Lord</hi> and <hi>deſtructive to the Creation:</hi> Oh <hi>the exceſſe,</hi> and <hi>Abomination,</hi> and <hi>wicked inventions</hi> that are exerciſed by you <hi>at ſuch times!</hi> they are even heavy to bear; ſurely <hi>God hath ſeen it,</hi> and he will <hi>reward you</hi> according <hi>to your VVorkes.</hi>
+            </p>
+            <p>And ſurely, if the Lord had not amongſt you <hi>a Seed,</hi> you ſhould be <hi>as Sodom,</hi> and be made <hi>even like unto Gomorah;</hi> For the Lord may well ſay unto you, <hi>The ſhew of your Countenance doth VVitneſs againſt you, and you declare your ſin as Sodom, and hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es it not, you ſtrengthen the Hands of the wicked, that none can return from his wickedneſs:</hi> And you are unto the Lord <hi>as Sodom</hi> and <hi>Gomorah,</hi> and it may well be ſaid unto you, as it was unto <hi>Jeruſalem, It will be more tollerable for</hi> Sodom <hi>and</hi> Gomorah <hi>in the day of Judgement then for you;</hi> For you have been the deſtruction of <hi>many Nations,</hi> in that you have made ſo much Profeſſion <hi>of God,</hi> and <hi>of Chriſt,</hi> and <hi>of the Scriptures,</hi> but the fruits that you have brought forth, hath been <hi>Pride, Hypocriſie</hi> and <hi>Deceit, Fulneſs of Bread, Exceſs of Riot</hi> and <hi>Drunkenneſs, Chambering</hi> and <hi>VVantonneſs,</hi> yea <hi>all Sin</hi> and <hi>Abomination that could be committed;</hi> Inſomuch that the very <hi>Heathens</hi> in ſeveral parts of the World, <hi>are even aſhamed of your practiſes;</hi> Your <hi>Deceit</hi> and <hi>Diſſembling</hi> is ſo manifeſted amon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eo<g ref="char:EOLhyphen"/>ple, that have not made ſuch a Profeſſion, that even <hi>the Name of a Chriſtian</hi> is odious in many parts of the World. But this is the Fruits that <hi>your much Preaching</hi> and <hi>Profeſſion</hi> brings forth, which is not <hi>in the Life</hi> and <hi>Power of God,</hi> and ſo is even <hi>a ſtinke</hi> to the Nations: Well may the Lord ſay, <hi>How ſhall I pardon thee for this? Thy Children have forſaken me, When I had fed them to the full, then they committed Adultery, and aſſembled themſelves by Troops, they were as fed Horſes in the morning; Shall I not viſit for theſe things ſaith the Lord?</hi> And <hi>Shall not my ſoul be avenged on ſuch a Nation as this? Go ye up upon her Walls and deſtroy, but make not a full end: Take away her Battlements, for they are not the Lords.</hi> Surely the Lord <hi>hath ſeen,</hi> and <hi>doth ſee</hi> the <hi>abomination</hi> and <hi>wickedneſs</hi> that is <hi>committed,</hi> and <hi>ſet up,</hi> and <hi>countenanced</hi> among you; and he cannot paſſe by it, but muſt <hi>avenge</hi> the Abomination of it.</p>
+            <p>Can your Hearts <hi>endure,</hi> or can your Hands <hi>be ſtrong</hi> in the dayes <hi>that the Lord doth deal with you according to your works,</hi> who de<g ref="char:EOLhyphen"/>ſpiſeth <hi>the day of the Lord,</hi> and <hi>deſpiſeth his People,</hi> and will have <hi>none of his Wayes,</hi> nor <hi>none of his Counſell;</hi> but will have <hi>thoſe wayes</hi> and <hi>worſhips</hi> in which <hi>you may have Liberty</hi> to act <hi>according to your own hearts Luſt,</hi> and according <hi>to the evill</hi> of <hi>your wayes,</hi> and <hi>abominations</hi> of your hearts? <hi>But the day of the Lord is come, which will burn as an Oven, and the wicked, and them that do wickedly, will be before him as Stubble;</hi> and then What will you anſwer him? <hi>When the Lord pleads with you by Sword and by Fire,</hi> how can you ſtand in his Preſence, <hi>who hath Acted againſt him,</hi> and are <hi>in continuall Rebellion againſt the God of Heaven,</hi> ſpending <hi>his Crea<g ref="char:EOLhyphen"/>tures upon your Luſts,</hi> and ſetting <hi>your Hearts</hi> to work Abomination againſt him, <hi>by all wayes that you can invent?</hi> What can you Plead for your ſelves, <hi>when he comes to call you to an account for thoſe things?</hi> Can you ſay to him <hi>that you acted thoſe things to pleaſe men,</hi> and <hi>to humour men,</hi> and <hi>to turn mens hearts towards you for your own ends,</hi> though they have been <hi>one againſt another,</hi> and <hi>you</hi> really true <hi>to none</hi> but for ſerving <hi>of your time?</hi> Will this ſtand <hi>before a juſt and Righteous God.</hi> who can by no means clear the guilty? <hi>I tell you, Nay.</hi>
+            </p>
+            <p>Oh <hi>Conſider in this your day the things that belong to your Peace:</hi> Ye know not how near <hi>the hand of the Lord may be to ſmite you,</hi> for you have been <hi>A Sinful, Provoking,</hi> and <hi>Aggravating People</hi> againſt God, and unto this very day <hi>abound in Pride</hi> and <hi>VVicked<g ref="char:EOLhyphen"/>neſs:</hi> And you have been warned from the Lord <hi>by a diſpiſed People,</hi> by which <hi>God will be clear from your blood;</hi> though you have ta<g ref="char:EOLhyphen"/>ken <hi>little notice,</hi> and given <hi>little regard,</hi> yet God <hi>will be thereby juſtified,</hi> and <hi>you condemned:</hi> So if you love your ſouls, <hi>Repent, and turn to the Lord, and put away the evill of your Doings; Ceaſe to do evil, and learn to do well, that the Lord may have mercy on you, VVho delights in mercy: At the time of Ignorance God wincked, but now he warnes all men every where to repent:</hi> And remember that you are once more Warned.</p>
+            <closer>
+               <dateline>LONDON, <date>the 4th day of the 5th <hi>Month,</hi> 1660.</date>
+               </dateline>
+               <signed>M. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for ROBERT WILSON.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
